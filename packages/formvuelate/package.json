@@ -1,9 +1,9 @@
 {
-  "name": "shinracode-formvuelate",
+  "name": "@shinracode/formvuelate",
   "version": "3.9.1",
   "description": "Schema Form Generator",
   "types": "dist/formvuelate.d.ts",
-  "author": "Marina Mosti",
+  "author": "Peter Atkins",
   "scripts": {
     "test:unit": "vue-cli-service test:unit --coverage",
     "test:e2e": "cypress open-ct",
@@ -40,6 +40,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/formvuelate/formvuelate.git"
+    "url": "git+https://github.com/shinracoder/formvuelate-new.git"
   }
 }
