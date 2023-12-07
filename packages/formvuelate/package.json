@@ -1,5 +1,5 @@
 {
-  "name": "formvuelate",
+  "name": "shinracode-formvuelate",
   "version": "3.9.1",
   "description": "Schema Form Generator",
   "types": "dist/formvuelate.d.ts",

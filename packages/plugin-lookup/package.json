@@ -1,5 +1,5 @@
 {
-  "name": "@formvuelate/plugin-lookup",
+  "name": "@shinracode-formvuelate/plugin-lookup",
   "version": "3.9.1",
   "description": "FormVueLate Lookup plugin",
   "main": "dist/formvuelate-plugin-lookup.cjs.js",

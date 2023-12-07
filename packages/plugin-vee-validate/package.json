@@ -1,5 +1,5 @@
 {
-  "name": "@formvuelate/plugin-vee-validate",
+  "name": "@shinracode-formvuelate/plugin-vee-validate",
   "version": "3.9.1",
   "description": "FormVueLate Vee-validate plugin",
   "main": "dist/formvuelate-plugin-vee-validate.cjs.js",
