@@ -1,7 +1,7 @@
 {
   "name": "@shinracoder/formvuelate-mono",
   "description": "Schema Form Generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "types": "dist/formvuelate.d.ts",
   "author": "Peter Atkins",
   "workspaces": [
